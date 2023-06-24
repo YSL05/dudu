@@ -1,0 +1,4 @@
+hello world
+ctrl + l: clear the termial
+find <path> <-type> <-name>: find the spificial file or dictiory
+*** | *** : put the left's output as the right's input
