@@ -1,4 +1,9 @@
 hello world
 ctrl + l: clear the termial
 find <path> <-type> <-name>: find the spificial file or dictiory
-*** | *** : put the left's output as the right's input
+*** | *** : put he left's output as the right's input
+:q  :quit
+i   :change into insert mode
+:   :change into cmd mode
+esc :change into momal mode
+:wq :save the change
