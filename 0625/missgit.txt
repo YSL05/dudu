@@ -1,0 +1,12 @@
+学习git的底层原理
+1、将文件夹和文件及提交当作对象处理，并利用哈希表实现一串数字代替对应的对象。
+2、利用压缩等手段将不同快照进行保存
+3、相关命令：
+	git init      初始化一个文件夹为git仓
+	git branch    创建分支
+	git checkout  切换分支、历史快照
+	git add       添加修改
+	git commit    提交修改
+	git merge     合并分支
+	git push      提交本地分支到远程分支
+	git pull      将本地分支同步远程分支
